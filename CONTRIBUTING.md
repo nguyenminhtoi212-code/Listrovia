@@ -1,6 +1,6 @@
-# CONTRIBUTING TO METROLIST MUSIC
+# CONTRIBUTING TO LISTROVIA
 
-Thank you for your interest in contributing to Metrolist Music! We welcome contributions to improve playback performance, user interface, audio engine integration, and overall stability. Please follow the guidelines below to keep the codebase clean and maintainable.
+Thank you for your interest in contributing to Listrovia! We welcome contributions to improve playback performance, user interface, audio engine integration, and overall stability. Please follow the guidelines below to keep the codebase clean and maintainable.
 
 ## 1. CODE OF CONDUCT
 - Maintain professionalism and respectful communication across all issues, pull requests, and discussions.
@@ -35,4 +35,3 @@ Thank you for your interest in contributing to Metrolist Music! We welcome contr
 
 ---
 ELEVATING YOUR AUDIO EXPERIENCE.
-
