@@ -1,14 +1,14 @@
 <div align="center">
 
-# Metrolist Music
+# Listrovia
 
 ### A Modern, Redesigned Music Client for Android
 
 <br/>
 
-[![Latest Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&label=Release&color=dc3545&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
-[![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
+[![Latest Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Listrovia?style=for-the-badge&label=Release&color=dc3545&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Listrovia/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Listrovia/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Listrovia/releases)
+[![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Listrovia/blob/main/LICENSE.txt)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 > [!NOTE]
 > # REVISED EDITION & FAN PROJECT
-> **Metrolist Music** is an independently modified audio client based on the core architecture of the original Metrolist application.
+> **Listrovia** is an independently modified audio client based on the core architecture of the original Metrolist application.
 > - **Original Lead Developer**: [Mo Agamy](https://github.com/mostafaalagamy) ([Base Project Repository](https://github.com/MetrolistGroup/Metrolist))
 > - **Revised Client Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
 >
@@ -104,7 +104,7 @@
 
 | Build Profile | Maintained By | Version & Download Metrics | Package Link |
 | :---: | :---: | :---: | :---: |
-| **Revised Version** | Nguyen Minh Toi | [![Release Metrics](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) | [**Download Release Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Revised Version** | Nguyen Minh Toi | [![Release Metrics](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Listrovia/total?style=flat-square&color=17a2b8&label=Downloads)](https://github.com/nguyenminhtoi212-code/Listrovia/releases) | [**Download Release Build**](https://github.com/nguyenminhtoi212-code/Listrovia/releases) |
 | **Original Official Build** | Mo Agamy (MetrolistGroup) | [![Official Metrics](https://img.shields.io/github/downloads/MetrolistGroup/Metrolist/total?style=flat-square&color=28a745&label=Downloads)](https://github.com/MetrolistGroup/Metrolist/releases) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
 | **Automated Build (Google Cast)** | CI Automated Pipeline | Nightly Integration | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
@@ -160,7 +160,7 @@ If you enjoy the project, feel free to support the original author:
 
 <h2><a id="acknowledgements"></a>Acknowledgements & Special Thanks</h2>
 
-Metrolist stands on the shoulders of incredible open-source work. Sincere appreciation goes to **Mo Agamy** and the **MetrolistGroup** team for establishing the base application.
+Listrovia stands on the shoulders of incredible open-source work. Sincere appreciation goes to **Mo Agamy** and the **MetrolistGroup** team for establishing the base application.
 
 - **Original Code Base**: [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - **Official Documentation**: [metrolist.cc](https://metrolist.cc/#faq)
@@ -192,7 +192,7 @@ We also thank the entire open-source community for every library, tool, and API 
 ### Contributors
 This project wouldn't exist without these amazing people!
 
-[![Contributors](https://img.shields.io/github/contributors/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&color=28a745&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/nguyenminhtoi212-code/Listrovia?style=for-the-badge&color=28a745&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Listrovia/graphs/contributors)
 
 </div>
 
