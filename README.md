@@ -183,7 +183,7 @@ Listrovia stands on the shoulders of incredible open-source work. Sincere apprec
 | **Better Lyrics** | Time-synced lyrics with word-by-word highlighting & YouTube Music integration |
 | **metroserver** | Listen-together real-time backend |
 | **MusicRecognizer** | Music recognition feature & Shazam API integration |
-| **zemer-cipher** | YouTube cipher deobfuscation and PoToken generation |
+| **zemer-cipher** | YouTube Music cipher deobfuscation and PoToken generation |
 
 <br/>
 
@@ -200,6 +200,6 @@ This project wouldn't exist without these amazing people!
 
 ## Disclaimer
 
-This project is not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, Metrolist Group LLC, or any of their affiliates and subsidiaries.
+This project is not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube Music, Google LLC, Metrolist Group LLC, or any of their affiliates and subsidiaries.
 
 All trademarks, service marks, and intellectual property rights referenced in this project belong to their respective owners.
