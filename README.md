@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="128" height="128" alt="Listrovia Logo" src="https://github.com/user-attachments/assets/051ac6ce-764c-4b4a-b50c-763069277828" />
+
 # Listrovia
 
 ### A Modern, Redesigned Music Client for Android
